@@ -25,6 +25,8 @@ Data visualization using Business Intelligence tool, PowerBI
 <h3> Students performance level based on specific conditions</h3>
 
 <ul>
+  <li>Gender</li>
+  <li>Ethnicity</li>
   <li>They took test prep or not</li>
   <li>type of Lunch they eat</li>
   <li>writing and reading score</li>
