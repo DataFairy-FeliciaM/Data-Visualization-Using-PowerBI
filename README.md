@@ -23,6 +23,7 @@ Data visualization using Business Intelligence tool, PowerBI
 
 <h2>Project 2</h2>
 <h3> Students performance level based on specific conditions</h3>
+<p><i>I had to start by transforming the data first using POWERBI tools (changing data types, removing columns and renaming columns)</i></p>
 
 <ul>
   <li>Gender</li>
@@ -34,3 +35,4 @@ Data visualization using Business Intelligence tool, PowerBI
 </ul>
 
 
+![Screenshot 2023-10-19 144902](https://github.com/DataFairy-FeliciaM/Data-Visualization-Using-PowerBI/assets/119903285/485fe73f-28b1-4864-99ed-26808eb44837)
